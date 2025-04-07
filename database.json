@@ -1,0 +1,418 @@
+[
+    {
+      "pergunta": "Qual é a capital do Brasil?",
+      "resposta": "Brasília"
+    },
+    {
+      "pergunta": "Quem é o presidente do Brasil?",
+      "resposta": "Luiz Inácio Lula da Silva"
+    },
+    {
+      "pergunta": "Qual é a sua função?",
+      "resposta": "Sou um assistente virtual para te ajudar com suas dúvidas."
+    },
+    {
+        "pergunta": "Quem te criou?",
+        "resposta": "Pedro do Arrocha e Natãzim de mel"
+      },
+    {
+        "pergunta": "Como resolver erro de processo não habilitado para o usuário?",
+        "resposta": "Solução 1: Verificar com a vara se a usuária está devidamente habilitada. Solução 2: Usuário deve entrar em contato com a unidade do processo no quão foi intimada e solicitar o cadastro como terceiro interessado tendo o CPF vinculado. "
+    },
+    {
+      "pergunta": "Como tratar erro inesperado ao tratar o pedido de autenticação ao provador de identidade. ",
+      "resposta": "Passo 1: Verificar se usuário se encontra habilitado no sistema PJE. Passo 2: Verificar se a máquina possui mais de um certificado digital, caso sim, deixar somente o certificado que se encontra válido."  
+    },
+      {
+        "pergunta": "Qual a principal causa do aumento da tensão geopolítica global em 2025?",
+        "resposta": "A crescente incerteza nas relações entre grandes potências como EUA, China e Rússia, impulsionada por conflitos regionais, mudanças climáticas, competição tecnológica e a ressurreição da competição entre grandes potências."
+      },
+      {
+        "pergunta": "Quais são os conflitos regionais com maior probabilidade de se intensificarem em 2025?",
+        "resposta": "As tensões em curso na Europa Oriental, no Médio Oriente e na Península Coreana, alimentadas por complexidades étnico-religiosas, ressentimentos históricos e disputas de poder."
+      },
+      {
+        "pergunta": "Como os avanços tecnológicos estão a influenciar a geopolítica global?",
+        "resposta": "A rápida evolução de tecnologias como a guerra cibernética, a inteligência artificial (IA) e as capacidades espaciais introduzem novas dimensões à competição geopolítica."
+      },
+      {
+        "pergunta": "Qual a previsão para a rivalidade entre os EUA e a China em 2025?",
+        "resposta": "Espera-se que a rivalidade entre os EUA e a China se intensifique, à medida que ambos os países competem pela supremacia em áreas como comércio, militarismo, tecnologia e influência nos assuntos globais."
+      },
+      {
+        "pergunta": "Qual o impacto das alterações climáticas na segurança global em 2025?",
+        "resposta": "As alterações climáticas continuam a ser uma ameaça significativa à segurança global, causando eventos climáticos extremos, escassez de recursos e deslocações populacionais, exacerbando as tensões e conflitos existentes."
+      },
+      {
+        "pergunta": "Quais são os principais desafios para a governação e colaboração globais em 2025?",
+        "resposta": "A crescente incerteza geopolítica e as tensões entre grandes potências dificultam a cooperação multilateral e a abordagem de desafios globais como as alterações climáticas, pandemias e pobreza."
+      },
+      {
+        "pergunta": "Como a pandemia de COVID-19 continua a moldar o mundo em 2025?",
+        "resposta": "Embora a fase aguda da pandemia possa ter passado, as suas consequências a longo prazo continuam a afetar a saúde pública, a economia, as cadeias de abastecimento e as relações internacionais."
+      },
+      {
+        "pergunta": "Quais são as implicações do aumento da inflação global em 2025?",
+        "resposta": "O aumento da inflação global coloca desafios para as economias, afetando o poder de compra, levando a potenciais instabilidade social e exigindo respostas políticas dos bancos centrais e governos."
+      },
+      {
+        "pergunta": "Como a escassez de energia está a afetar o cenário global em 2025?",
+        "resposta": "A escassez de energia, exacerbada por conflitos e tensões geopolíticas, leva a preços mais elevados da energia, perturbações económicas e uma pressão acrescida para a transição para fontes de energia renováveis."
+      },
+      {
+        "pergunta": "Qual o estado da democracia global em 2025?",
+        "resposta": "Há preocupações com a regressão democrática em várias partes do mundo, com um número crescente de pessoas a viver sob regimes autoritários."
+      },
+      {
+        "pergunta": "Como a tecnologia está a moldar o futuro do trabalho em 2025?",
+        "resposta": "A automação e a IA continuam a transformar o mercado de trabalho, levando ao deslocamento de empregos em alguns setores e à criação de novos empregos noutros, exigindo requalificação e adaptação da força de trabalho."
+      },
+      {
+        "pergunta": "Quais são os principais desafios para a saúde pública global em 2025?",
+        "resposta": "Os desafios incluem o combate a doenças infecciosas (incluindo variantes da COVID-19), o aumento de doenças não transmissíveis, o reforço dos sistemas de saúde e a abordagem das desigualdades em saúde."
+      },
+      {
+        "pergunta": "Como a crise alimentar global está a evoluir em 2025?",
+        "resposta": "A crise alimentar global continua a ser uma preocupação, impulsionada por conflitos, alterações climáticas, perturbações nas cadeias de abastecimento e aumento dos preços dos alimentos, levando à insegurança alimentar e à fome em muitas regiões."
+      },
+      {
+        "pergunta": "Qual o impacto da guerra na Ucrânia no cenário global em 2025?",
+        "resposta": "A guerra na Ucrânia continua a ter consequências de longo alcance, incluindo deslocações de pessoas, crise energética, inflação e tensões geopolíticas entre a Rússia e o Ocidente."
+      },
+      {
+        "pergunta": "Como a situação humanitária no Afeganistão está a evoluir em 2025?",
+        "resposta": "A situação humanitária no Afeganistão continua precária, com uma pobreza generalizada, insegurança alimentar e necessidades de assistência significativas após a retirada das forças internacionais."
+      },
+      {
+        "pergunta": "Quais são os principais desafios para a educação global em 2025?",
+        "resposta": "Os desafios incluem a recuperação das perdas de aprendizagem induzidas pela pandemia, o tratamento das desigualdades no acesso à educação, o reforço da qualidade da educação e a adaptação dos sistemas de educação às necessidades do futuro."
+      },
+      {
+        "pergunta": "Como a questão da migração global está a ser abordada em 2025?",
+        "resposta": "A migração global continua a ser uma questão complexa, impulsionada por conflitos, pobreza, alterações climáticas e procura de melhores oportunidades, exigindo cooperação internacional e abordagens humanas para gerir os fluxos migratórios."
+      },
+      {
+        "pergunta": "Qual o progresso nas energias renováveis em 2025?",
+        "resposta": "A transição para as energias renováveis está a ganhar impulso, com um aumento da capacidade instalada de energia solar e eólica, bem como avanços nas tecnologias de armazenamento de energia."
+      },
+      {
+        "pergunta": "Como a poluição plástica continua a ser um problema global em 2025?",
+        "resposta": "A poluição plástica continua a ser uma grande preocupação ambiental, com esforços em curso para reduzir a produção de plástico de utilização única, melhorar a reciclagem e limpar os ecossistemas poluídos."
+      },
+      {
+        "pergunta": "Qual o estado da conservação da biodiversidade em 2025?",
+        "resposta": "A perda de biodiversidade continua a ser uma questão crítica, com esforços em curso para proteger espécies ameaçadas, restaurar habitats e combater o comércio ilegal de vida selvagem."
+      },
+      {
+        "pergunta": "Como a tecnologia blockchain está a evoluir em 2025?",
+        "resposta": "A tecnologia blockchain continua a desenvolver-se, com aplicações que vão além das criptomoedas, incluindo a gestão da cadeia de abastecimento, a identidade digital e os sistemas de votação seguros."
+      },
+      {
+        "pergunta": "Qual o impacto do metaverso e da realidade virtual em 2025?",
+        "resposta": "O metaverso e as tecnologias de realidade virtual (RV) e realidade aumentada (RA) estão a tornar-se mais difundidos, com aplicações em entretenimento, educação, trabalho remoto e interação social."
+      },
+      {
+        "pergunta": "Como a inteligência artificial (IA) está a ser integrada em várias indústrias em 2025?",
+        "resposta": "A IA continua a ser integrada em várias indústrias, incluindo saúde, finanças, transportes e manufatura, levando a ganhos de eficiência, novos produtos e serviços, mas também levantando preocupações éticas."
+      },
+      {
+        "pergunta": "Qual o estado da exploração espacial em 2025?",
+        "resposta": "A exploração espacial continua a avançar, com missões governamentais e privadas visando a Lua, Marte e outros corpos celestes, impulsionando avanços tecnológicos e conhecimento científico."
+      },
+      {
+        "pergunta": "Como a agricultura sustentável está a ganhar importância em 2025?",
+        "resposta": "As práticas de agricultura sustentável estão a ganhar importância crescente em resposta às preocupações com a segurança alimentar, as alterações climáticas e a degradação ambiental, com foco em métodos como a agricultura biológica e a agrofloresta."
+      },
+      {
+        "pergunta": "Qual o papel das redes sociais na sociedade em 2025?",
+        "resposta": "As redes sociais continuam a desempenhar um papel significativo na comunicação, na disseminação de informações e na mobilização social, mas também levantam preocupações sobre desinformação, privacidade e bem-estar."
+      },
+      {
+        "pergunta": "Como as cidades estão a evoluir em resposta aos desafios globais em 2025?",
+        "resposta": "As cidades estão a tornar-se mais inteligentes e resilientes, adotando tecnologias para melhorar a eficiência, a sustentabilidade e a qualidade de vida, abordando desafios como o crescimento populacional, as alterações climáticas e a poluição."
+      },
+      {
+        "pergunta": "Qual a importância da saúde mental em 2025?",
+        "resposta": "A consciencialização sobre a saúde mental e a procura de apoio para o bem-estar mental continuam a crescer, com esforços para reduzir o estigma e melhorar o acesso aos serviços de saúde mental."
+      },
+      {
+        "pergunta": "Como a igualdade de género está a progredir em 2025?",
+        "resposta": "Embora tenham sido feitos progressos na igualdade de género, persistem desafios em muitas áreas, incluindo representação política, disparidades salariais e violência de género, com esforços contínuos para promover a igualdade e o empoderamento das mulheres."
+      },
+      {
+        "pergunta": "Qual o estado dos direitos humanos a nível global em 2025?",
+        "resposta": "As preocupações com os direitos humanos persistem em muitas partes do mundo, incluindo restrições às liberdades, violência contra civis e discriminação, com organizações internacionais e ativistas a trabalhar para promover e proteger os direitos humanos."
+      },
+      {
+        "pergunta": "Como a ajuda humanitária está a responder às crises globais em 2025?",
+        "resposta": "As organizações humanitárias continuam a fornecer assistência essencial às populações afetadas por conflitos, desastres naturais e outras emergências, enfrentando desafios como o acesso, a segurança e o financiamento."
+      },
+      {
+        "pergunta": "Qual o papel da cultura e das artes na sociedade global em 2025?",
+        "resposta": "A cultura e as artes continuam a desempenhar um papel vital na expressão da identidade, na promoção da compreensão intercultural e no tratamento de questões sociais."
+      },
+      {
+        "pergunta": "Como o turismo sustentável está a evoluir em 2025?",
+        "resposta": "O turismo sustentável está a ganhar importância à medida que os viajantes se tornam mais conscientes do seu impacto ambiental e social, com foco em práticas que beneficiam as comunidades locais e minimizam os efeitos negativos."
+      },
+      {
+        "pergunta": "Qual o estado da economia global em 2025?",
+        "resposta": "A economia global enfrenta desafios como inflação, desaceleração do crescimento e incertezas geopolíticas, com diferentes regiões a registarem diferentes níveis de desempenho económico."
+      },
+      {
+        "pergunta": "Como o comércio internacional está a ser moldado em 2025?",
+        "resposta": "O comércio internacional continua a ser um motor da economia global, mas enfrenta desafios como tensões comerciais, protecionismo e perturbações nas cadeias de abastecimento."
+      },
+      {
+        "pergunta": "Qual o papel das pequenas e médias empresas (PMEs) na economia global em 2025?",
+        "resposta": "As PMEs continuam a ser uma parte crucial da economia global, contribuindo para a criação de empregos, a inovação e o crescimento económico, com esforços para apoiar o seu desenvolvimento e resiliência."
+      },
+      {
+        "pergunta": "Como o setor financeiro está a adaptar-se às mudanças globais em 2025?",
+        "resposta": "O setor financeiro está a passar por uma transformação, impulsionada pela tecnologia, pelas mudanças regulamentares e pelas preocupações com a sustentabilidade, com o crescimento da banca digital e das finanças verdes."
+      },
+      {
+        "pergunta": "Qual o impacto do envelhecimento da população em 2025?",
+        "resposta": "O envelhecimento da população em muitos países coloca desafios para os sistemas de saúde, os sistemas de pensões e os mercados de trabalho, exigindo adaptações políticas para apoiar as populações mais idosas."
+      },
+      {
+        "pergunta": "Como a pobreza e a desigualdade estão a ser combatidas em 2025?",
+        "resposta": "Os esforços para combater a pobreza e a desigualdade continuam, através de programas de proteção social, iniciativas de desenvolvimento económico e políticas destinadas a reduzir as disparidades de rendimentos e a melhorar as oportunidades para todos."
+      },
+      {
+        "pergunta": "Qual o papel da inovação na abordagem dos desafios globais em 2025?",
+        "resposta": "A inovação é crucial para encontrar soluções para os desafios globais, incluindo as alterações climáticas, a saúde, a energia e a pobreza, com apoio à investigação e desenvolvimento e à adoção de novas tecnologias."
+      },
+      {
+        "pergunta": "Como a governação e a política estão a evoluir em 2025?",
+        "resposta": "A governação e a política enfrentam desafios como a polarização, a desconfiança nas instituições e a ascensão do populismo, com esforços para fortalecer a democracia, o Estado de direito e a participação cívica."
+      },
+      {
+        "pergunta": "Qual a importância da educação para o desenvolvimento sustentável em 2025?",
+        "resposta": "A educação para o desenvolvimento sustentável é cada vez mais reconhecida como essencial para capacitar os indivíduos com o conhecimento e as competências necessárias para enfrentar os desafios ambientais, sociais e económicos."
+      },
+      {
+        "pergunta": "Como a segurança cibernética continua a ser uma preocupação global em 2025?",
+        "resposta": "A segurança cibernética continua a ser uma grande preocupação à medida que as ameaças cibernéticas se tornam mais sofisticadas e frequentes, exigindo medidas reforçadas para proteger infraestruturas críticas, dados e indivíduos."
+      },
+      {
+        "pergunta": "Qual o impacto das alterações demográficas nas sociedades em 2025?",
+        "resposta": "As alterações demográficas, incluindo o crescimento populacional, o envelhecimento e a migração, têm impactos significativos nas sociedades, afetando os mercados de trabalho, os serviços públicos e a estrutura social."
+      },
+      {
+        "pergunta": "Como a colaboração internacional está a ser fortalecida em 2025?",
+        "resposta": "Apesar das tensões geopolíticas, os esforços para fortalecer a colaboração internacional continuam em áreas como saúde, clima, segurança e desenvolvimento, através de organizações multilaterais e parcerias."
+      },
+      {
+        "pergunta": "Qual o papel da filantropia na abordagem dos problemas globais em 2025?",
+        "resposta": "As organizações filantrópicas continuam a desempenhar um papel importante no fornecimento de financiamento e apoio para abordar os problemas globais, complementando os esforços dos governos e da sociedade civil."
+      },
+      {
+        "pergunta": "Como a cultura digital está a moldar a sociedade em 2025?",
+        "resposta": "A cultura digital continua a moldar a forma como comunicamos, trabalhamos, aprendemos e nos divertimos, com o aumento da dependência da tecnologia e a necessidade de literacia digital e de utilização responsável."
+      },
+      {
+        "pergunta": "Qual o estado da liberdade de imprensa e da liberdade de expressão a nível global em 2025?",
+        "resposta": "A liberdade de imprensa e a liberdade de expressão enfrentam desafios em muitas partes do mundo, incluindo censura, intimidação e violência contra jornalistas, com esforços para defender os direitos dos meios de comunicação social e dos indivíduos."
+      },
+      {
+        "pergunta": "Como a ciência e a investigação estão a contribuir para o progresso global em 2025?",
+        "resposta": "A ciência e a investigação continuam a ser essenciais para enfrentar os desafios globais, levando a descobertas, inovações e soluções baseadas em evidências em vários campos."
+      },
+      {
+        "pergunta": "Qual o impacto do nacionalismo e do populismo no cenário global em 2025?",
+        "resposta": "O nacionalismo e o populismo continuam a influenciar a política em muitos países, afetando as relações internacionais, as políticas comerciais e a cooperação global."
+      },
+      {
+        "pergunta": "Como a sustentabilidade está a ser integrada nas práticas empresariais em 2025?",
+        "resposta": "A sustentabilidade está a tornar-se cada vez mais integrada nas práticas empresariais, impulsionada pelas exigências dos consumidores, pelas regulamentações e pela consciencialização dos riscos ambientais e sociais."
+      },
+      {
+        "pergunta": "Quem fez mais gols no Campeonato Cearense de 2024?",
+        "resposta": "Pra saber quem foi o artilheiro do Campeonato Cearense de 2024, dá uma olhada em sites de notícias de esportes ou no site da Federação Cearense de Futebol. Eles costumam divulgar essa informação depois do campeonato."
+      },
+      {
+        "pergunta": "Quanto tá valendo o dólar hoje?",
+        "resposta": "O valor do dólar muda toda hora! Pra saber a cotação certinha, dá uma olhada em casas de câmbio, bancos ou sites de finanças online."
+      },
+      {
+        "pergunta": "Quais os lugares mais legais pra conhecer em Jeri?",
+        "resposta": "Ah, Jeri tem cada lugar incrível! Não perde a Pedra Furada, a Lagoa do Paraíso com aquelas redes na água, a Duna do Pôr do Sol pra ver o visual, a Praia da Malhada e o Farol do Serrote."
+      },
+      {
+        "pergunta": "O que é aquela tal de síndrome de burnout?",
+        "resposta": "Burnout é quando a pessoa fica super cansada e desmotivada no trabalho, sabe? Tipo um esgotamento emocional que faz a pessoa se sentir distante e menos realizada."
+      },
+      {
+        "pergunta": "Como é que planta manjericão em casa?",
+        "resposta": "Pra plantar manjericão em casa é fácil! Você vai precisar de sementinha ou muda, um vaso com furinho embaixo pra água sair, terra boa e um lugar com bastante sol. Aí é só plantar, regar de vez em quando e deixar no solzinho."
+      },
+      {
+        "pergunta": "Qual foi o livro que mais vendeu no Brasil ano passado?",
+        "resposta": "Pra descobrir qual foi o campeão de vendas de livros no Brasil em 2024, procura nas listas das livrarias grandes e das editoras, ou vê se saiu algum ranking literário no final do ano."
+      },
+      {
+        "pergunta": "Por que que rola aquele negócio de efeito estufa?",
+        "resposta": "O efeito estufa acontece porque tem uns gases na atmosfera (tipo gás carbônico) que seguram o calor que a Terra manda embora, aí não deixa ele ir todo pro espaço."
+      },
+      {
+        "pergunta": "Qual o segredo pra fazer arroz branco ficar soltinho?",
+        "resposta": "Pra fazer arroz branco soltinho, geralmente a gente usa uma medida de arroz pra duas de água, refoga o arroz com alho e cebola antes de botar a água e cozinha em fogo baixo até secar tudo."
+      },
+      {
+        "pergunta": "Quem foi que inventou a luz elétrica?",
+        "resposta": "Geralmente a gente lembra do Thomas Edison como o cara que inventou a lâmpada elétrica, ele até patenteou uma em 1879 que dava pra vender. Mas outros cientistas também ajudaram a desenvolver a iluminação elétrica antes dele."
+      },
+      {
+        "pergunta": "Quantas pessoas mais ou menos moram no Ceará hoje em dia?",
+        "resposta": "Pra saber a estimativa mais nova de quantas pessoas moram no Ceará, dá uma olhada nos dados do IBGE (Instituto Brasileiro de Geografia e Estatística)."
+      },
+      {
+        "pergunta": "O que diabos é um buraco negro?",
+        "resposta": "Um buraco negro é um lugar no espaço onde a gravidade é tão forte que nada consegue escapar, nem a luz! Ele se forma quando estrelas muito grandes morrem e desabam sobre si mesmas."
+      },
+      {
+        "pergunta": "Como é que essa tal de energia solar funciona?",
+        "resposta": "A energia solar funciona assim: uns painéis solares com umas pecinhas chamadas células fotovoltaicas pegam a luz do sol e transformam ela direto em eletricidade. Quando a luz bate nas células, ela solta uns elétrons que fazem a energia correr."
+      },
+      {
+        "pergunta": "Quais as vantagens de fazer exercício sempre?",
+        "resposta": "Fazer exercício direto faz um bem danado pra saúde! Ajuda o coração a ficar forte, os músculos e os ossos também, controla o peso, diminui o estresse e ainda melhora o humor."
+      },
+      {
+        "pergunta": "O que é aquela camada de ozônio e por que ela é importante pra gente?",
+        "resposta": "A camada de ozônio é uma parte lá em cima da atmosfera da Terra que tem muito ozônio (umas moléculas de O3). Ela é super importante porque pega a maior parte da radiação ultravioleta (UV) do sol, que faz mal pra gente, e não deixa ela chegar aqui embaixo."
+      },
+      {
+        "pergunta": "Como é que faz pra declarar o Imposto de Renda?",
+        "resposta": "Pra declarar o Imposto de Renda, geralmente você precisa juntar os documentos de tudo que você ganhou e gastou que dá pra deduzir, e aí preencher a declaração no programa ou aplicativo da Receita Federal."
+      },
+      {
+        "pergunta": "Qual a diferença entre furacão, tufão e ciclone?",
+        "resposta": "Furacão, tufão e ciclone são basicamente a mesma coisa: uma tempestade tropical bem forte com ventos super rápidos e muita chuva. O que muda é o lugar do mundo onde eles acontecem: furacão no Atlântico Norte e no nordeste do Pacífico, tufão no noroeste do Pacífico e ciclone no sul do Pacífico e no Oceano Índico."
+      },
+      {
+        "pergunta": "O que é essa tal de filosofia estoica?",
+        "resposta": "A filosofia estoica é uma ideia antiga que ensina que a gente deve focar naquilo que a gente pode controlar (tipo nossas atitudes) e aceitar o que não dá pra mudar. Eles acreditavam que a virtude e a razão levam à felicidade."
+      },
+      {
+        "pergunta": "Como é que funciona aquela urna eletrônica de votar?",
+        "resposta": "Na urna eletrônica, você digita o número do seu candidato. O voto é registrado ali na hora, de forma eletrônica, e depois, quando acaba a votação, os votos são contados tudo automaticamente e com segurança."
+      },
+      {
+        "pergunta": "Quais os maiores problemas pra cuidar da Caatinga?",
+        "resposta": "Pra cuidar da Caatinga, os maiores desafios são o desmatamento pra plantar e criar gado, a terra virando deserto, a gente usar as coisas da natureza de lá sem cuidado, a falta de água e também de leis que ajudem a proteger."
+      },
+      {
+        "pergunta": "O que é essa tecnologia 5G que tanto falam?",
+        "resposta": "O 5G é a quinta geração da internet no celular, sabe? Ela promete ser muito mais rápida, com uma conexão quase instantânea e aguentando muito mais gente e aparelhos conectados ao mesmo tempo."
+      },
+      {
+        "pergunta": "O que que eu faço pra dor de cabeça passar?",
+        "resposta": "Pra dor de cabeça aliviar, tenta descansar num lugar escuro e silencioso, botar uma compressa fria ou quente na testa, beber água e, se não melhorar, pode tomar um remédio pra dor de cabeça."
+      },
+      {
+        "pergunta": "Por que que a água é tão importante pra gente?",
+        "resposta": "A água é essencial pra um monte de coisa no nosso corpo! Ela ajuda a hidratar as células, leva os nutrientes pra todo lado, controla a temperatura do corpo, joga as coisas ruins pra fora e faz os órgãos funcionarem direitinho."
+      },
+      {
+        "pergunta": "O que é essa tal de inflação na economia?",
+        "resposta": "Inflação é quando o preço de tudo começa a subir e não para, sabe? Aí o nosso dinheiro começa a valer menos e a gente consegue comprar menos coisas com a mesma quantia."
+      },
+      {
+        "pergunta": "Como é que faz um currículo bom?",
+        "resposta": "Um currículo bom geralmente tem seus dados de contato, um resumo sobre você (se quiser), suas experiências de trabalho (começando pelas mais recentes), sua formação escolar, as coisas que você sabe fazer bem e outras informações que podem ser importantes. Tem que ser claro, direto e mostrar o que você já fez de bom."
+      },
+      {
+        "pergunta": "O que são essas energias renováveis?",
+        "resposta": "Energias renováveis são aquelas que a natureza repõe sozinha e que não acabam, tipo a energia do sol, do vento, da água, do calor da Terra e da biomassa (coisas orgânicas)."
+      },
+      {
+        "pergunta": "O que que eu posso fazer pra dormir melhor?",
+        "resposta": "Pra dormir melhor, tenta dormir e acordar sempre no mesmo horário, deixar seu quarto um lugar gostoso pra dormir, evitar café e celular antes de deitar e fazer coisas relaxantes à noite."
+      },
+      {
+        "pergunta": "O que quer dizer globalização?",
+        "resposta": "Globalização é quando os países do mundo começam a se conectar e depender cada vez mais uns dos outros em relação à economia, às pessoas, à cultura e à política."
+      },
+      {
+        "pergunta": "Como é que um motor de carro funciona?",
+        "resposta": "Um motor de carro funciona queimando gasolina ou álcool dentro de um espaço fechado, liberando gases que empurram uma peça chamada pistão, e aí essa força é transformada em movimento para o carro andar."
+      },
+      {
+        "pergunta": "Quais são os direitos que a gente tem como consumidor?",
+        "resposta": "A gente tem vários direitos como consumidor, protegidos por lei! Tipo o direito de saber tudo sobre o produto ou serviço, de não ser enganado pela propaganda, de ter garantia de qualidade e de ser compensado se algo der errado."
+      },
+      {
+        "pergunta": "O que é a cultura afro-brasileira?",
+        "resposta": "A cultura afro-brasileira é tudo aquilo que veio da influência dos africanos que foram trazidos pro Brasil como escravos e de seus descendentes, como a música, a dança, a religião, a comida e as artes."
+      },
+      {
+        "pergunta": "Qual a melhor forma de aprender uma língua nova?",
+        "resposta": "Pra aprender uma língua nova, geralmente ajuda estudar as regras e as palavras, praticar lendo, escrevendo, ouvindo e falando, e também se colocar em contato com a língua vendo filmes, ouvindo músicas e conversando com outras pessoas."
+      },
+      {
+        "pergunta": "O que significa democracia?",
+        "resposta": "Democracia é um jeito de governar onde o poder está nas mãos do povo, geralmente através de pessoas que a gente elege pra nos representar."
+      },
+      {
+        "pergunta": "Como é que a internet funciona?",
+        "resposta": "A internet é como uma grande rede de computadores ligados uns aos outros que conversam usando umas regras combinadas, permitindo que a gente troque informações e acesse um monte de coisas online."
+      },
+      {
+        "pergunta": "Quais são os principais tipos de natureza que a gente tem no Brasil?",
+        "resposta": "No Brasil, a gente tem vários tipos de natureza bem diferentes, que chamamos de biomas, como a Amazônia, a Mata Atlântica, o Cerrado, a Caatinga, o Pampa e o Pantanal."
+      },
+      {
+        "pergunta": "O que fazer pra não ter cárie no dente?",
+        "resposta": "Pra não ter cárie, é importante escovar os dentes sempre com pasta com flúor, usar fio dental, não comer muito doce e ir ao dentista regularmente."
+      },
+      {
+        "pergunta": "O que é essa tal de filosofia oriental?",
+        "resposta": "Filosofia oriental junta várias ideias e religiões que surgiram na Ásia, tipo o budismo, o hinduísmo e o taoismo. Geralmente elas falam muito sobre a espiritualidade, viver em harmonia e como tudo está conectado."
+      },
+      {
+        "pergunta": "Como é que um avião consegue voar?",
+        "resposta": "Um avião voa por causa do jeito que o ar se move nas asas, que faz ele subir. Os motores dão a força pra ele ir pra frente, e tem outras partes que ajudam a controlar pra onde ele vai."
+      },
+      {
+        "pergunta": "Quais os benefícios de meditar?",
+        "resposta": "Meditar pode ajudar a gente a ficar menos estressado e ansioso, a se concentrar melhor, a se conhecer melhor e a se sentir mais calmo e feliz."
+      },
+      {
+        "pergunta": "O que é reciclar plástico?",
+        "resposta": "Reciclar plástico é pegar as garrafas, sacolas e outras coisas de plástico que a gente não usa mais e transformar em coisas novas, pra não poluir tanto e não precisar fazer tanto plástico novo."
+      },
+      {
+        "pergunta": "Como é que escreve um e-mail profissional?",
+        "resposta": "Um e-mail profissional geralmente tem um assunto claro, uma saudação educada, a mensagem principal de forma direta, uma despedida formal e sua assinatura com seus dados."
+      },
+      {
+        "pergunta": "O que é biodiversidade e por que ela é importante?",
+        "resposta": "Biodiversidade é a quantidade de vida diferente que existe na Terra, desde os bichinhos pequenos até as plantas e os animais grandes. Ela é importante pra natureza funcionar direitinho, pra gente ter recursos naturais, pra o clima ficar equilibrado e pra nossa saúde."
+      },
+      {
+        "pergunta": "Como funciona esse negócio de imposto no Brasil?",
+        "resposta": "O sistema de impostos no Brasil é meio complicado e tem vários tipos de impostos (do governo federal, dos estados e das cidades) que a gente paga quando ganha dinheiro, compra coisas, tem propriedades, etc. Esse dinheiro serve pra pagar os serviços públicos."
+      },
+      {
+        "pergunta": "O que é inteligência emocional?",
+        "resposta": "Inteligência emocional é a capacidade de entender o que a gente sente e o que os outros sentem, de controlar nossas próprias emoções e de usar as emoções de um jeito positivo."
+      },
+      {
+        "pergunta": "Como é que faz um planejamento financeiro?",
+        "resposta": "Pra planejar suas finanças, geralmente você precisa saber quanto você ganha e gasta, definir o que você quer alcançar com seu dinheiro, fazer um plano de gastos, guardar dinheiro todo mês e investir de acordo com seus objetivos e se você aceita correr mais ou menos risco."
+      },
+      {
+        "pergunta": "O que é a cultura popular do Brasil?",
+        "resposta": "A cultura popular brasileira é tudo aquilo que vem do povo, tipo as festas tradicionais, as músicas, as danças, o artesanato e as histórias que são passadas de boca em boca."
+      },
+      {
+        "pergunta": "Como é que um computador funciona por dentro?",
+        "resposta": "Um computador funciona com várias pecinhas (hardware) como o processador, a memória e o disco rígido, que seguem as instruções dos programas (software) pra fazer as tarefas que a gente pede e mostrar as coisas na tela."
+      },
+      {
+        "pergunta": "Quais os maiores problemas da educação no Brasil?",
+        "resposta": "Na educação do Brasil, alguns dos maiores desafios são garantir que todas as crianças e jovens tenham acesso a uma boa escola, diminuir a diferença na qualidade do ensino entre ricos e pobres, valorizar os professores, melhorar as escolas e usar novas formas de ensinar."
+      }
+  ]
